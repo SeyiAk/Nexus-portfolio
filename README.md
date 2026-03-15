@@ -1,4 +1,4 @@
-# 🌌 Nexus Portfolio
+# 🛸 Nexus Portfolio
 
 ![Nexus Portfolio](https://img.shields.io/badge/Status-Online-success?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-19.2.0-blue?style=for-the-badge&logo=react)
