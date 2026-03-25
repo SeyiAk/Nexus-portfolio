@@ -160,3 +160,14 @@ canvas {
   -ms-overflow-style: none;
   scrollbar-width: none;
 }
+
+/* ── Tab Scrubbing ─────────────────────────────── */
+.scrubbing {
+  cursor: grabbing !important;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+.scrubbing * {
+  cursor: grabbing !important;
+}
